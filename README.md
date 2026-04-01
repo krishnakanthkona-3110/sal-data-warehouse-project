@@ -31,7 +31,7 @@ This project involves:
 - Data Modeling  
 - Data Analytics  
 
----
+----
 
 ## 🛠️ Important Links & Tools:
 
